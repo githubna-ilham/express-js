@@ -27,7 +27,7 @@ app.put('/tehmanis',(req,res) =>{
 })
 
 app.delete('/tehmanis',(req,res) =>{
-    res.send("Hello ini teh manis sudah habis")
+    res.send("Hello ini teh manis sudah habi")
 })
 
 
